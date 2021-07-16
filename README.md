@@ -1,6 +1,6 @@
-# waa-language-support README
+# WAA VSCode Support
 
-This is the README for your extension "waa-language-support". After writing up a brief description, we recommend including the following sections.
+This is the README for your VSCode extension "waa-language-support". After writing up a brief description, we recommend including the following sections.
 
 ## Features
 
