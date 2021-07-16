@@ -13,7 +13,14 @@
 		"keywords": {
 			"patterns": [{
 				"name": "keyword.control.waa",
-				"match": "\\b(if|while|for|return)\\b"
+				"match": "\\b(IF|ELIF|ELSE|END|WHILE|FOR|RETURN|BREAK)\\b"
+			},
+			{
+				"name": "keyword.operator.waa",
+				"match": "\\b(\\+|\\-|\\*|\\/|\\^)\\b"
+			},
+			{
+				"name": ""
 			}]
 		},
 		"strings": {
